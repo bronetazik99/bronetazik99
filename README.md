@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**bronetazik99/bronetazik99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Aleksandr – a Data Analyst passionate about turning data into actionable insights.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: My portfolio projects, focusing on A/B testing, financial data analysis and visualization.
+- 📫 How to reach me: [adveretelnik@gmail.com](mailto:adveretelnik@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adveretelnik/)
+- ⚡ Mistakes make us stronger—unless they're spelling mistakes, of course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 My Skills
+- Programming: Python, SQL
+- Tools: Tableau, PostgreSQL, Jupyter Notebook
+- Specialties: Data visualization, A/B testing, and statistical modeling
+
+### 🚀 My Projects
+Check out some of my notable projects:
+- [Yandex Afisha Analysis](#): Marketing metrics analysis and cohort visualization.
+- [A/B Testing Case Study](#): Evaluating product interface changes with Python and statistical tests.
+
+### 📚 Learning and Growth
+I’m diving into:
+- Data storytelling through advanced Tableau dashboards
+- Machine learning basics in Python
+
+### 🌐 Connect with Me
+- LinkedIn: [Aleksandr Veretelnik](https://www.linkedin.com/in/adveretelnik/)
+- Portfolio: [Coming Soon!]
+
