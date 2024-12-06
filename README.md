@@ -23,6 +23,3 @@ I’m diving into:
 - Data storytelling through advanced Tableau dashboards
 - Machine learning basics in Python
 
-### 🌐 Connect with Me
-- LinkedIn: [Aleksandr Veretelnik](https://www.linkedin.com/in/adveretelnik/)
-
